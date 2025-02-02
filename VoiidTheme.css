@@ -49,6 +49,10 @@
 	background-size: 2.5%;
 }
 
+:root.void .data-v-b76dec43 {
+	--background-color: rgba(19, 18, 31,80%);
+}
+
 :root.void .ladder-row[data-v-b13887f0] {
 	height: 100%;
     max-height: 100%;
