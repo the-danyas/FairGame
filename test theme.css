@@ -35,7 +35,7 @@
 }
 :root.void body {
   font-family: "Brush Script MT", cursive;
-
+background: url(./dane sprite.png) repeat;
 }
 
 :root.void .ladder-row[data-v-b13887f0] {
