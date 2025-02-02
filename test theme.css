@@ -4,7 +4,7 @@
     --colourtwo: #252547;
     --colourthree: #1031b3;
     --colourfour: #2b1c4d;
-    --colourfive: #08164f;
+    --colourfive: #171a26;
     --coloursix: #2e3c7350;
     
     --main-color: var(--colourone);
@@ -17,7 +17,7 @@
     --eta-best: var(--colourthree);
     --eta-mid: #F3B700;
     --eta-worst: #ff6201;
-    --text-color: #c451e0;
+    --text-color: #927ebf;
     --text-light-highlight-color: var(--colourtwo);
     --text-dark-highlight-color: var(--colourtwo);
     --button-color: var(--colourone);
