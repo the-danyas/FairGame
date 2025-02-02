@@ -5,7 +5,7 @@
     --colourtwo: #423991;
     --colourthree: #1031b3;
     --colourfour: #361582;
-    --colourfive: #13121f;
+    --colourfive: #13121fb0;
     --coloursix: #2e3c7350;
     
 	--main-color: var(--colourone);
@@ -48,7 +48,7 @@
 	background-repeat: repeat;
 	background-blend-mode: color-dodge;
 
-	background-size: 1.5%;
+	background-size: 16px;
 }
 
 :root.void .ladder-row[data-v-b13887f0] {
