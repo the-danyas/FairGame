@@ -1,7 +1,7 @@
 :root.void {
 
-    --colourone: #1e212b;
-    --colourtwo: #252547;
+    --colourone: #2b3761;
+    --colourtwo: #08085e;
     --colourthree: #1031b3;
     --colourfour: #2b1c4d;
     --colourfive: #171a26;
@@ -38,13 +38,13 @@
 }
 
 :root.void .ladder-row[data-v-b13887f0] {
-    height: 70%;
-    max-height: 70%;
+    height: 100%;
+    max-height: 100%;
 }
 :root.void .col-6.tempInfo[data-v-260edd08] {
     margin-top: -15%;
     margin-left: 35%;
-    margin-bottom: -10%;
+    margin-bottom: -15%;
 }
 :root.void .col-6 {
     width: 110%;
