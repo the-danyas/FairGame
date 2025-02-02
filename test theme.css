@@ -1,8 +1,4 @@
 :root.void {
-   	opacity: 1;
-	font-family: "Brush Script MT", cursive;
-	background-image: url('https://danethewebsitecat.neocities.org/danesprite.png');
-	background-repeat: repeat;
 
     --colourone: #2c1270;
     --colourtwo: #2d2d85;
@@ -39,7 +35,11 @@
 }
 
 :root.void body {
-
+   	opacity: 1;
+	font-family: "Brush Script MT", cursive;
+	background-image: url('https://danethewebsitecat.neocities.org/danesprite.png');
+	background-repeat: repeat;
+	background-blend-mode: color-dodge;
 }
 
 :root.void .ladder-row[data-v-b13887f0] {
