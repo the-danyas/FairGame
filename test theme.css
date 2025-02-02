@@ -1,10 +1,10 @@
 :root.void {
-
+   
     --colourone: #2b3761;
     --colourtwo: #7048b5;
     --colourthree: #1031b3;
     --colourfour: #6d52ab;
-    --colourfive: #553091;
+    --colourfive: #21192e;
     --coloursix: #2e3c7350;
     
     --main-color: var(--colourone);
