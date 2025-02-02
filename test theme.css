@@ -1,4 +1,4 @@
-:root.seaweed {
+:root.void {
 
     --colourone: #1e212b;
     --colourtwo: #252547;
@@ -33,15 +33,15 @@
     --link-hover-color: var(--colourthree);
     --link-color: var(--colourthree);
 }
-:root.seaweed .ladder-row[data-v-b13887f0] {
+:root.void .ladder-row[data-v-b13887f0] {
     height: 70%;
     max-height: 70%;
 }
-:root.seaweed .col-6.tempInfo[data-v-260edd08] {
+:root.void .col-6.tempInfo[data-v-260edd08] {
     margin-top: -15%;
     margin-left: 35%;
     margin-bottom: -10%;
 }
-:root.seaweed .col-6 {
+:root.void .col-6 {
     width: 110%;
 }
