@@ -8,39 +8,41 @@
     --colourfive: #13121f;
     --coloursix: #2e3c7350;
     
-    --main-color: var(--colourone);
-    --main-secondary-color: var(--colourtwo);
-    --background-color: var(--colourfive);
-    --background-dark-color: var(--colourfive);
-    --background-light-color: var(--colourfive);
-    --placeholder-color: var(--colourthree);
-    --item-selected-color: var(--colourfour);
-    --eta-best-color: #3d1fd1;
-    --eta-mid-color: #9e37b8;
-    --eta-worst-color: #d90d80;
+	--main-color: var(--colourone);
+	--main-secondary-color: var(--colourtwo);
+	--background-color: var(--colourfive);
+	--background-dark-color: var(--colourfive);
+	--background-light-color: var(--colourfive);
+	--placeholder-color: var(--colourthree);
+	--item-selected-color: var(--colourfour);
+	--eta-best-color: #3d1fd1;
+	--eta-mid-color: #9e37b8;
+	--eta-worst-color: #d90d80;
 	--eta-best: var(--eta-best-color);
-    --eta-mid: var(--eta-mid-color);
-    --eta-worst: var(--eta-worst-color);
-    --text-color: #927ebf;
-    --text-light-highlight-color: var(--colourtwo);
-    --text-dark-highlight-color: var(--colourtwo);
-    --button-color: var(--colourone);
-    --button-hover-color: var(--colourthree);
-    --button-hover-background-color: var(--coloursix);
-    --you-color: var(--colourfive);
-    --you-background-color: var(--colourfour);
-    --promoted-color: var(--colourthree);
-    --promoted-background-color: var(--coloursix);
-    --header-color: var(--colourone);
-    --navbar-color: var(--colourfive);
-    --offcanvas-background-color: var(--colourfive);
-    --link-hover-color: var(--colourthree);
-    --link-color: var(--colourthree);
+	--eta-mid: var(--eta-mid-color);
+	--eta-worst: var(--eta-worst-color);
+	--text-color: #927ebf;
+	--text-light-highlight-color: var(--colourtwo);
+	--text-dark-highlight-color: var(--colourtwo);
+	--button-color: var(--colourone);
+	--button-hover-color: var(--colourthree);
+	--button-hover-background-color: var(--coloursix);
+	--you-color: var(--colourfive);
+	--you-background-color: var(--colourfour);
+	--promoted-color: var(--colourthree);
+	--promoted-background-color: var(--coloursix);
+	--header-color: var(--colourone);
+	--navbar-color: var(--colourfive);
+	--offcanvas-background-color: var(--colourfive);
+	--link-hover-color: var(--colourthree);
+	--link-color: var(--colourthree);
+	--ladder-bg-promoted-color: #111235;
+	--ladder-text-promoted-color: #4f117f;
 }
 
 :root.void body {
    	opacity: 1;
-	font-family: "Brush Script MT", cursive;
+	font-family: math;
 
 	background-image: url('https://danethewebsitecat.neocities.org/danetrans.png');
 	background-repeat: repeat;
@@ -51,13 +53,13 @@
 
 :root.void .ladder-row[data-v-b13887f0] {
 	height: 100%;
-    max-height: 100%;
+	max-height: 100%;
 }
 :root.void .col-6.tempInfo[data-v-260edd08] {
-    margin-top: -15%;
-    margin-left: 35%;
-    margin-bottom: -15%;
+	margin-top: -15%;
+	margin-left: 35%;
+	margin-bottom: -15%;
 }
 :root.void .col-6 {
-    width: 110%;
+	width: 110%;
 }
