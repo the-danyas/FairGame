@@ -34,6 +34,7 @@
     --link-color: var(--colourthree);
 }
 :root.void body {
+	opacity: 1;
 	font-family: "Brush Script MT", cursive;
 	background-image: url(danethewebsitecat.neocities.org/dane sprite.png), repeat;
 }
