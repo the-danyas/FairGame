@@ -18,6 +18,9 @@
     --eta-best-color: #3d1fd1;
     --eta-mid-color: #9e37b8;
     --eta-worst-color: #d90d80;
+	--eta-best: var(--eta-best-color);
+    --eta-mid: var(--eta-mid-color);
+    --eta-worst: var(--eta-worst-color);
     --text-color: #927ebf;
     --text-light-highlight-color: var(--colourtwo);
     --text-dark-highlight-color: var(--colourtwo);
@@ -44,10 +47,6 @@
 	background-blend-mode: color-dodge;
 
 	background-size: 2.5%;
-}
-
-:root.void .text-eta-worst {
-
 }
 
 :root.void .ladder-row[data-v-b13887f0] {
