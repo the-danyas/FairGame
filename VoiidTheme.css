@@ -46,11 +46,7 @@
 	background-repeat: repeat;
 	background-blend-mode: color-dodge;
 
-	background-size: 2.5%;
-}
-
-:root.void .data-v-b76dec43 {
-	--background-color: rgba(19, 18, 31,80%);
+	background-size: 1.5%;
 }
 
 :root.void .ladder-row[data-v-b13887f0] {
