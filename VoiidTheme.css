@@ -15,9 +15,9 @@
     --background-light-color: var(--colourfive);
     --placeholder-color: var(--colourthree);
     --item-selected-color: var(--colourfour);
-    --eta-best: #3d1fd1;
-    --eta-mid: #9e37b8;
-    --eta-worst: #d90d80;
+    --eta-best-color: #3d1fd1;
+    --eta-mid-color: #9e37b8;
+    --eta-worst-color: #d90d80;
     --text-color: #927ebf;
     --text-light-highlight-color: var(--colourtwo);
     --text-dark-highlight-color: var(--colourtwo);
@@ -33,9 +33,6 @@
     --offcanvas-background-color: var(--colourfive);
     --link-hover-color: var(--colourthree);
     --link-color: var(--colourthree);
-	--text-eta-worst: var(--eta-worst);
-	--text-eta-mid: var(--eta-mid);
-	--text-eta-best: var(--eta-best);
 }
 
 :root.void body {
@@ -47,6 +44,10 @@
 	background-blend-mode: color-dodge;
 
 	background-size: 2.5%;
+}
+
+:root.void .text-eta-worst {
+
 }
 
 :root.void .ladder-row[data-v-b13887f0] {
