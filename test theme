@@ -1,0 +1,47 @@
+:root.seaweed {
+
+    --colourone: #008e24;
+    --colourtwo: #a9ce00;
+    --colourthree: #e3e2c2;
+    --colourfour: #467c04;
+    --colourfive: #000115;
+    --coloursix: #008e2450;
+    
+    --main-color: var(--colourone);
+    --main-secondary-color: var(--colourtwo);
+    --background-color: var(--colourfive);
+    --background-dark-color: var(--colourfive);
+    --background-light-color: var(--colourfive);
+    --placeholder-color: var(--colourthree);
+    --item-selected-color: var(--colourfour);
+    --eta-best: var(--colourthree);
+    --eta-mid: #F3B700;
+    --eta-worst: #ff6201;
+    --text-color: var(--colourthree);
+    --text-light-highlight-color: var(--colourtwo);
+    --text-dark-highlight-color: var(--colourtwo);
+    --button-color: var(--colourone);
+    --button-hover-color: var(--colourthree);
+    --button-hover-background-color: var(--coloursix);
+    --you-color: var(--colourfive);
+    --you-background-color: var(--colourfour);
+    --promoted-color: var(--colourthree);
+    --promoted-background-color: var(--coloursix);
+    --header-color: var(--colourone);
+    --navbar-color: var(--colourfive);
+    --offcanvas-background-color: var(--colourfive);
+    --link-hover-color: var(--colourthree);
+    --link-color: var(--colourthree);
+}
+:root.seaweed .ladder-row[data-v-b13887f0] {
+    height: 70%;
+    max-height: 70%;
+}
+:root.seaweed .col-6.tempInfo[data-v-260edd08] {
+    margin-top: -15%;
+    margin-left: 35%;
+    margin-bottom: -10%;
+}
+:root.seaweed .col-6 {
+    width: 110%;
+}
