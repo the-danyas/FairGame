@@ -37,6 +37,7 @@
     --link-hover-color: var(--colourthree);
     --link-color: var(--colourthree);
 }
+
 :root.void body {
 
 }
