@@ -33,6 +33,9 @@
     --offcanvas-background-color: var(--colourfive);
     --link-hover-color: var(--colourthree);
     --link-color: var(--colourthree);
+	--text-eta-worst: var(--eta-worst);
+	--text-eta-mid: var(--eta-mid);
+	--text-eta-best: var(--eta-best);
 }
 
 :root.void body {
